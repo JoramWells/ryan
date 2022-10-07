@@ -5,8 +5,8 @@ import Header from '../components/Header';
 export default function Home() {
   return (
     <div>
-      <Navbar />
-      <Header />
+      {/* <Navbar /> */}
+      {/* <Header /> */}
 
       <h1
         className="text-3xl font-bold"

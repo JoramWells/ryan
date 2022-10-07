@@ -1,6 +1,5 @@
 import Image from 'next/image';
 
-// import bg from '../../assets/bg.jpg';
 const index = () => {
   return (
     <div>
